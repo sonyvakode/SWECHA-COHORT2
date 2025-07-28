@@ -33,7 +33,7 @@ An open-source audio dataset management platform developed using **Streamlit**. 
 ### Setup
 
 ```bash
-git clone https://github.com/sakethvadnal/SWECHA-COHORT2.git
+git clone https://github.com/sonyvakode/SWECHA-COHORT2
 cd SWECHA-COHORT2
 pip install -r requirements.txt
 streamlit run app.py
