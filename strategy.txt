@@ -1,0 +1,32 @@
+1. Target Audience
+The primary audience for this project includes:
+•	General public, with a special focus on elderly individuals.
+•	Anyone willing to contribute audio samples for the dataset.
+________________________________________
+2. Acquisition Method
+The approach to acquiring users (participants) is in-person outreach:
+•	Direct live contact with individuals in public places, neighborhoods, or communities.
+•	Conversations are initiated to explain the purpose and importance of the project.
+•	Verbal consent is obtained before recording.
+________________________________________
+3. Value Proposition for the User
+•	The process is non-intrusive and requires no effort or benefit for the participant other than providing an audio sample.
+•	Their input may contribute to a larger dataset for voice-based research or regional language support tools.
+•	They are not required to sign up or use any technology themselves.
+________________________________________
+4. Onboarding Process
+•	Participants are engaged face-to-face.
+•	No forms, apps, or sign-ins involved.
+•	Audio is recorded directly by the project owner (you) on your own device.
+________________________________________
+5. Success Metrics
+•	Each successful contribution is measured by:
+o	A minimum 4-minute audio sample recorded per person.
+•	A target number of recordings is set for meaningful dataset collection (e.g., 20+ individuals = 80+ minutes of audio).
+________________________________________
+6. Tools & Resources Used
+•	Mobile Recorder / Voice Recorder App for capturing audio.
+•	Public participation – primarily involving friends or people nearby.
+•	Local storage for managing and labeling audio files.
+•	GitLab/GitHub repositories for storing related scripts or analysis tools.
+
